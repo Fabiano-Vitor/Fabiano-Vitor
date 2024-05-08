@@ -13,5 +13,6 @@
 <a href="https://www.linkedin.com/in/fabiano-vitor-792795102"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targe="_blank"/></a> 
 
  
-### Apaixonado por tecnologia.
+### ” A arte de programar consiste em organizar e dominar a complexidade. “
+Edsger W. Dijkstra
 
