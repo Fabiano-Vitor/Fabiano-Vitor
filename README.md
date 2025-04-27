@@ -7,9 +7,11 @@ Atuo na área de **Gestão de Acessos** e sou **Pós-graduado em Cybercrime e Cy
 
 ## 🚀 Tecnologias & Ferramentas
 - 🔐 Cybersecurity
-- 🐍 Python (iniciante)
-- 🖥️ Gestão de Identidades (IAM)
 - 🛡️ Análise de Riscos e Vulnerabilidades
+- 🖥️ Gestão de Identidades (IAM)
+- 🗂️ Active Directory (Administração de usuários, grupos, políticas e permissões)
+- ☁️ Microsoft Azure (Azure Active Directory, Segurança de Identidades e Governança)
+- 🐍 Python (iniciante)
 
 ## 📚 Atualmente estudando
 - Inglês (Curso: Inglês Extremo - Udemy)
